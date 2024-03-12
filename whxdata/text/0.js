@@ -1,1 +1,1 @@
-rh._.exports({"0":[["Title_Page"]],"1":[[" ","Manikanta Gottuparti"]],"2":[[" ","Technical Writer"," ","Download CV"," ","Work Samples"]],"id":"0"})
+rh._.exports({"0":[["Home"]],"1":[[" ","Manikanta Gottuparti"]],"2":[[" ","Technical Writer"," ","Download CV"," ","Work Samples"]],"id":"0"})
